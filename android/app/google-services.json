@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503398919454",
+    "project_id": "duan-9054d",
+    "storage_bucket": "duan-9054d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503398919454:android:4a3d41df930ee1f745ed0f",
+        "android_client_info": {
+          "package_name": "com.example.quanlybanhang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQuUGXHVZtZZCQ005mleZ7I7BIog2erCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
